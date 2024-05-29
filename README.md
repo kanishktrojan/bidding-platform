@@ -69,5 +69,5 @@ This project implements a comprehensive RESTful API for a real-time bidding plat
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/yourusername/bidding-platform.git
+git clone https://github.com/kanishktrojan/bidding-platform.git
 cd bidding-platform
